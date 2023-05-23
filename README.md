@@ -1,4 +1,8 @@
 # Treasury Direct Mutable Password Userscript
+
+This repo has been archived since the administrators of TreasuryDirect have finally come to their senses and disabled the virtual keyboard as of May 2023.
+
+
 A simple userscript to allow you to log into TreasuryDirect in a sane fashion
 
 ## Usage
